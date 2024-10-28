@@ -30,7 +30,7 @@ h1{
 
 h2{
     margin: 10px;
-    padding: 2px;
+    padding:  15px 2px ;
     text-align: center;
     background-color: maroon;
     color:white;
@@ -85,6 +85,10 @@ li{
         display:grid;
         grid-template-columns: repeat(4,1fr);
         
+    }
+    h2{
+        font-size: 1.2em;
+        margin: 0;
     }
 }
 
