@@ -15,7 +15,8 @@ body{
 
 h1{
     color: maroon;
-    color:white;
+    font-size: 3em;
+    text-shadow: 0 0 7px yellow;
     margin: 20px;
     padding: 12px;
     border-radius: 9px;
