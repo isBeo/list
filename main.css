@@ -8,16 +8,23 @@ body{
     min-width: 480px;
     margin:auto;
     background-color: silver;
-    color:maroon;
+    color:black;
+    padding:5px 50px ;
 }
 
 h1{
-    background-color: black;
+    background-color: maroon;
     color:white;
+    margin: 20px;
+    padding: 12px;
     border-radius: 29px;
+    text-align: center;
 }
 
 h2{
+    margin: 10px;
+    padding: 12px;
+    text-align: center;
     background-color: maroon;
     color:white;
     border-radius: 20px;
