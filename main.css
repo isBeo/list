@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-width: 480px;
+    margin:auto;
+    background-color: silver;
+    color:maroon;
+}
+
+h1{
+    background-color: black;
+    color:white;
+    border-radius: 29px;
+}
+
+h2{
+    background-color: maroon;
+    color:white;
+    border-radius: 20px;
+}
