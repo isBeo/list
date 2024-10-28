@@ -32,10 +32,14 @@ h2{
 
 ol,ul{
     background-color: white;
-    margin:auto;
+    margin-inline:auto;
+    margin-block: 10px;
     padding:20px;
+    border-radius: 20px;
+    box-shadow: 0 0 9px maroon;
 }
 
 li{
     margin: 13px;
 }
+
